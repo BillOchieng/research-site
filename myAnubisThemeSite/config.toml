@@ -58,6 +58,12 @@ identifier = "archive"
 url = "/posts/"
 weight = 3
 
+[[menu.main]]
+name = "BILL RULEZ"
+identifier = "bill"
+url = "/aboutme/"
+weight = 4
+
 [taxonomies]
 category = "categories"
 tag = "tags"
